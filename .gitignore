@@ -57,3 +57,7 @@ Thumbs.db
 
 # Temporary files
 /tmp/
+
+# Local tool state
+.nova/
+.codex/
